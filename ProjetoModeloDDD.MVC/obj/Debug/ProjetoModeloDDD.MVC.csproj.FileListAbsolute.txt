@@ -51,3 +51,7 @@ F:\MVC\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Newtonsoft.Json.xml
 F:\MVC\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.csprojResolveAssemblyReference.cache
 F:\MVC\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.dll
 F:\MVC\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.pdb
+F:\MVC\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\AutoMapper.dll
+F:\MVC\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Domain.dll
+F:\MVC\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Domain.pdb
+F:\MVC\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\AutoMapper.xml
